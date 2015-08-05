@@ -1,13 +1,42 @@
-p 
-{
-	background-color: #66CCCC;
-}
 body 
 {
-	background-color: #C2FFFF;
-	margin: 2 em;
+	margin-left: 3%;
+	margin-right: 3%;
+	margin-top: 5%;
+	margin-bottom: 5%;
+	background: #333; 
+	text-align: center; 
+	color: #eee;
+	font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif;
+	font: 14px Georgia, serif;
 }
-form 
+
+h1 
+{ 	font-size: 42px; 
+	font-weight: 600; 
+	margin: 0 0 30px 0; 
+}
+
+h3
 {
-	background-color: #80FFFF;
+	font-size: 20px; 
+	font-weight: 400; 
+	color: #CC0000; 
+}
+
+div
+{
+	font-style: color: #CC0000;
+}
+
+form
+{
+	vertical-align: center;
+}
+
+pre {
+	background: black;
+	text-align: left;
+	padding: 20px;
+	margin: 0 auto 30px auto; 
 }
